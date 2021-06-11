@@ -1,0 +1,7 @@
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-2_Exercie_2\bin\Debug\Lesson-2_Exercie_2.exe.config
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-2_Exercie_2\bin\Debug\Lesson-2_Exercie_2.exe
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-2_Exercie_2\bin\Debug\Lesson-2_Exercie_2.pdb
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-2_Exercie_2\obj\Debug\Lesson-2_Exercie_2.csproj.AssemblyReference.cache
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-2_Exercie_2\obj\Debug\Lesson-2_Exercie_2.csproj.CoreCompileInputs.cache
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-2_Exercie_2\obj\Debug\Lesson-2_Exercie_2.exe
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-2_Exercie_2\obj\Debug\Lesson-2_Exercie_2.pdb
