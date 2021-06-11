@@ -20,7 +20,7 @@ namespace Lesson_2_Exercise_1
 
             float Mean = (Max + Min) / 2;
 
-            Console.WriteLine($"Среднесуточная температура - {Mean} градусов Цельсия");
+            Console.WriteLine($"Среднесуточная температура воздуха - {Mean} градусов Цельсия");
 
         }
     }
