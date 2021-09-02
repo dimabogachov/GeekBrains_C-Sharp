@@ -66,7 +66,7 @@ namespace Lesson_2_Exercise_5
 
             float Mean = (Max + Min) / 2;
 
-
+            Console.WriteLine($"Среднесуточная температура - {Mean} градусов Цельсия");
 
             bool isWarmWinter = Season == "Зима" && (Mean > 0);
             bool isCoolSummer = Season == "Лето" && (Mean < 0);
