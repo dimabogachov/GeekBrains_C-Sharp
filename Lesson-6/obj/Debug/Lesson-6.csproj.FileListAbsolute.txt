@@ -1,0 +1,7 @@
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-6\bin\Debug\Lesson-6.exe.config
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-6\bin\Debug\Lesson-6.exe
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-6\bin\Debug\Lesson-6.pdb
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-6\obj\Debug\Lesson-6.csproj.AssemblyReference.cache
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-6\obj\Debug\Lesson-6.csproj.CoreCompileInputs.cache
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-6\obj\Debug\Lesson-6.exe
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-6\obj\Debug\Lesson-6.pdb
