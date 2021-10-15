@@ -1,0 +1,7 @@
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-6_TaskManager\bin\Debug\Lesson-6_TaskManager.exe.config
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-6_TaskManager\bin\Debug\Lesson-6_TaskManager.exe
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-6_TaskManager\bin\Debug\Lesson-6_TaskManager.pdb
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-6_TaskManager\obj\Debug\Lesson-6_TaskManager.csproj.AssemblyReference.cache
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-6_TaskManager\obj\Debug\Lesson-6_TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-6_TaskManager\obj\Debug\Lesson-6_TaskManager.exe
+C:\Users\bogachev\source\repos\dimabogachov\GeekBrains_C-Sharp\Lesson-6_TaskManager\obj\Debug\Lesson-6_TaskManager.pdb
